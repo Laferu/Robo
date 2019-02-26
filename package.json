@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Laferu/Robo/issues"
   },
-  "homepage": "https://github.com/Laferu/Robo#readme"
+  "homepage": "https://github.com/Laferu/Robo#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
